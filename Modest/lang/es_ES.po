@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modest 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 18:37+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor, no cargues esta página directamente. ¡Gracias!"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este artículo está protegido por contraseña. Introduce la contraseña para ver los comentarios."
+
+#: ../comments.php:19
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../comments.php:19
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:63
+#, fuzzy
+msgid "Submit Comment"
+msgstr "Enviar un Comentario"
+
+#: ../comments.php:63
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../footer.php:8
+msgid "Learn More"
+msgstr "Saber más"
+
+#: ../footer.php:35
+msgid "Designed by"
+msgstr "Diseñado por"
+
+#: ../footer.php:35
+msgid "Powered by"
+msgstr "Powered by"
+
+#: ../header.php:59
+msgid "Home"
+msgstr "Inicio"
+
+#: ../home.php:31
+msgid "Examples of Our Work"
+msgstr "Ejemplos de Nuestro Trabajo"
+
+#: ../page-blog.php:47
+#: ../page-contact.php:89
+#: ../page-full.php:33
+#: ../page-gallery.php:43
+#: ../page-login.php:40
+#: ../page-search.php:40
+#: ../page-search.php:50
+#: ../page-sitemap.php:40
+#: ../page-sitemap.php:44
+#: ../page-template-portfolio.php:52
+#: ../page.php:28
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-blog.php:62
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:62
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:62
+msgid "on"
+msgstr "en"
+
+#: ../page-blog.php:62
+msgid "in"
+msgstr "en"
+
+#: ../page-blog.php:62
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../page-blog.php:62
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../page-blog.php:62
+msgid "comments"
+msgstr "comentarios"
+
+#: ../page-blog.php:82
+msgid "read more"
+msgstr "leer más"
+
+#: ../page-blog.php:105
+#: ../page-contact.php:138
+#: ../page-full.php:34
+#: ../page-gallery.php:85
+#: ../page-login.php:57
+#: ../page-search.php:86
+#: ../page-sitemap.php:77
+#: ../page-template-portfolio.php:160
+#: ../page.php:29
+msgid "Edit this page"
+msgstr "Editar página"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Asegúrate de entrar el captcha."
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Has introducido un número erróneo en el captcha."
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Asegúrate de rellenar todos los campos."
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Correo inválido."
+
+#: ../page-contact.php:58
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactar con nosotros"
+
+#: ../page-contact.php:99
+msgid "Name"
+msgstr "Nombre"
+
+#: ../page-contact.php:103
+msgid "Email Address"
+msgstr "Dirección de Correo"
+
+#: ../page-contact.php:107
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../page-contact.php:114
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#: ../page-contact.php:130
+msgid "Reset"
+msgstr "Limpiar"
+
+#: ../page-contact.php:131
+#: ../page-search.php:78
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:67
+#: ../page-template-portfolio.php:114
+msgid "Zoom in"
+msgstr "Hacer zoom"
+
+#: ../page-gallery.php:68
+#: ../page-template-portfolio.php:115
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../page-login.php:46
+msgid "Username"
+msgstr "Usuario"
+
+#: ../page-login.php:47
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../page-login.php:51
+msgid "Not a member?"
+msgstr "¿No eres miembro?"
+
+#: ../page-login.php:51
+msgid "Register today!"
+msgstr "¡Regístrate hoy!"
+
+#: ../page-search.php:44
+msgid "search this website"
+msgstr "buscar en este sitio"
+
+#: ../page-search.php:47
+#, fuzzy
+msgid "search this site..."
+msgstr "buscar en este sitio"
+
+#: ../page-search.php:49
+msgid "Posts"
+msgstr "Entradas"
+
+#: ../page-search.php:53
+msgid "Select a month"
+msgstr "Selecciona un mes"
+
+#: ../page-sitemap.php:49
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../page-sitemap.php:54
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../page-sitemap.php:70
+msgid "Authors"
+msgstr "Autores"
+
+#: ../includes/entry.php:1
+msgid "Read More"
+msgstr "Leer Más"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entradas Anteriores"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Entradas Posteriores &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "No se han encontrado resultados"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La página solicitada no se pudo encontrar. Trata de mejorar la búsqueda o utiliza la navegación de arriba para buscar la entrada."
+
+#: ../includes/top_info.php:5
+msgid "Posts Tagged &quot;"
+msgstr "Entradas Etiquetadas &quot;"
+
+#: ../includes/top_info.php:7
+#: ../includes/top_info.php:9
+#: ../includes/top_info.php:11
+msgid "Posts made in"
+msgstr "Entradas creadas en"
+
+#: ../includes/top_info.php:13
+msgid "Search results for"
+msgstr "Resultados de"
+
+#: ../includes/top_info.php:20
+msgid "Posts by "
+msgstr "Entradas por"
+
+#: ../includes/functions/comments.php:12
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando moderación."
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Contestar"
+
+#~ msgid "Submit a Comment to %s"
+#~ msgstr "Enviar un Comentario a %s"
+#~ msgid "You must be"
+#~ msgstr "Debes estar"
+#~ msgid "logged in"
+#~ msgstr "logueado"
+#~ msgid "to post a comment."
+#~ msgstr "para enviar un comentario."
+#~ msgid "Logged in as"
+#~ msgstr "Logueado como"
+#~ msgid "Log out &raquo;"
+#~ msgstr "Salir &raquo;"
+#~ msgid "(required)"
+#~ msgstr "(obligatorio)"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "Correo (no se publicará)"
+#~ msgid "Website"
+#~ msgstr "Sitio Web"
+#~ msgid "submit"
+#~ msgstr "enviar"
+#~ msgid "Primary Menu"
+#~ msgstr "menú Primario"
+#~ msgid "Footer Menu"
+#~ msgstr "Menú del Pie"
+#~ msgid "Numbers regenerated."
+#~ msgstr "Números generados."
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+

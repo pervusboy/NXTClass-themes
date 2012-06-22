@@ -1,0 +1,60 @@
+version 2.1
+- Updated thumbnail function to clear unused images
+- Updated templates with improved coding structure
+- Fixed sample data images bug
+- Fixed featured slider bugs caused by new jQuery version
+
+version 2.0
+- Updated thumbnail function to better detect root folder. Thumbnails
+  must now be hosted within the same root folder as NXTClass. 
+    * epanel/custom_functions.php
+
+version 1.9
+- Removed timthumb due to known vulnerabilities
+    * deleted timthumb.php, cache and temp folders
+    * modified 'epanel/custom_functions.php', 'epanel/options_themename.php'
+
+version 1.8
+- Fixed bug with homepage slider
+    * js/custom.js
+
+version 1.7
+- Performed extensive performance and security enhancements. 
+    * All files were updated. 
+
+version 1.6
+- Fixed IE8 thumbnail issue.
+    * style.css
+version 1.5
+- Updated ePanel with various bug fixes
+- Changed lightbox script
+    * all files should be updated
+
+version 1.4
+- Added Spanish lang files
+- Fixed locatlization issue in comments
+- Fixed Ie6/7 issues
+    * comments.php
+    * /lang
+    * css/ie7style.css
+    * home.php
+
+
+version 1.3
+- Shortcode bugs fixed
+- Updated the theme with the new Portfolio page template
+- Replaced FancyBox with PrettyPhoto for lightbox effects
+    * epanel/
+    * page-template-portfolio.php
+    * To insure that FancyBox is properly replaced, it is
+      recommended that all files be re-uploaded.
+
+version 1.2
+    * includes/featured.php
+    * style.css
+    * header.php
+    * epanel/shortcodes/shortcodes.php
+
+version 1.1
+- Fixed icon link on the homepage
+    * includes/featured.php
